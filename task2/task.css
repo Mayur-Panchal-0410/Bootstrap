@@ -1,0 +1,47 @@
+
+#upperpart {
+    background-image: url(header.jpeg);
+    padding-top: 30px;
+    padding-bottom: 55px;
+    margin-top: 0px;
+
+}
+
+.container-fluid {
+    margin-bottom: 20px;
+}
+
+.downloadbtn {
+    background-color: white;
+    color: #17cf48;
+    border: 1px solid #17cf48;
+}
+
+.likebtn {
+    background-color: white;
+    color: #eb1a1a;
+    border: 1px solid #eb1a1a;
+}
+
+.card {
+    border:2px solid gainsboro;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    /* padding-left: 5px;
+    padding-right: 3px; */
+}
+.containeritems{
+    padding-left: 8px;
+}
+@media only screen and (max-width: 1200px) {
+    .card {
+        border:2px solid gainsboro;
+        padding-top: 0px;
+        padding-bottom: 10px;
+       margin-bottom: 15px;
+    }
+
+  }
+  .nav-header{
+    margin-left: 50px;
+  }
