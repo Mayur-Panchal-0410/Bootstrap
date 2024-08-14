@@ -45,3 +45,7 @@
   .nav-header{
     margin-left: 50px;
   }
+
+  ul{
+    list-style-type: none;
+  }
